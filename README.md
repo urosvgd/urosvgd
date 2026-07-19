@@ -1,218 +1,155 @@
-<h1 align="center">Hi 👋, I'm Uros Jovicic</h1>
+<h1 align="center">Hi 👋  I'm Uros Jovicic</h1>
 
-<h3 align="center">
-  Flutter Developer from Serbia 🇷🇸
-</h3>
+<h3 align="center">Flutter Developer from Serbia 🇷🇸</h3>
 
 <p align="center">
   Mobile developer with 5+ years of experience building scalable,
   maintainable and well-tested Flutter applications.
 </p>
 
-<div align="center">
-  <a href="https://github.com/urosvgd">
-    <img
-      src="https://komarev.com/ghpvc/?username=urosvgd&label=Profile%20views&color=6C63FF&style=flat"
-      alt="Profile views"
-    />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=urosvgd&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="165"
-    alt="GitHub statistics"
+    src="https://komarev.com/ghpvc/?username=urosvgd&label=Profile%20views&color=02569B&style=flat"
+    alt="Profile views"
   />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=urosvgd&layout=compact&langs_count=6&theme=dracula&hide_border=false"
-    height="165"
-    alt="Most used languages"
-  />
-</div>
-
-<br>
+---
 
 <img
   align="right"
-  height="170"
+  width="280"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
   alt="Developer coding animation"
 />
 
-<h3 align="left">👨‍💻 About me</h3>
+<h2>👨‍💻 About me</h2>
 
-<p align="left">
-  📱 I build cross-platform mobile applications with Flutter<br>
-  🧱 I work with Clean Architecture, BLoC and dependency injection<br>
-  🧪 I write unit, widget, integration and BLoC tests<br>
-  ⚙️ I develop backend services with Kotlin and Spring Boot<br>
-  🤖 I am expanding my native Android knowledge with Jetpack Compose<br>
+<p>
+  📱 I build cross-platform mobile applications with Flutter
+</p>
+
+<p>
+  🧱 I work with Clean Architecture, BLoC and dependency injection
+</p>
+
+<p>
+  🧪 I write unit, widget, integration and BLoC tests
+</p>
+
+<p>
+  ⚙️ I develop backend services with Kotlin and Spring Boot
+</p>
+
+<p>
+  🤖 I am learning native Android development with Jetpack Compose
+</p>
+
+<p>
   🚀 I care about maintainable code, scalable architecture and polished user experiences
 </p>
 
 <br clear="both">
 
-<h3 align="left">🛠️ Languages and technologies</h3>
+---
 
-<div align="left">
+<h2>🛠️ Languages and technologies</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+<h2>📱 Flutter ecosystem</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Freezed-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Freezed" />
+  <img src="https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="GoRouter" />
+  <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dio" />
+  <img src="https://img.shields.io/badge/Injectable-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Injectable" />
+  <img src="https://img.shields.io/badge/get__it-0175C2?style=flat-square&logo=dart&logoColor=white" alt="get_it" />
+  <img src="https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="GoRouter" />
+  <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white" alt="ML Kit" />
+</p>
+
+---
+
+<h2>🧪 Testing</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unit_Tests-222222?style=flat-square" alt="Unit tests" />
+  <img src="https://img.shields.io/badge/Widget_Tests-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Widget tests" />
+  <img src="https://img.shields.io/badge/BLoC_Tests-0175C2?style=flat-square&logo=dart&logoColor=white" alt="BLoC tests" />
+  <img src="https://img.shields.io/badge/Mockito-45B8D8?style=flat-square" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Patrol-6C63FF?style=flat-square" alt="Patrol" />
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
+</p>
+
+---
+
+<h2>🏗️ Architecture and practices</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=flat-square" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/SOLID-222222?style=flat-square" alt="SOLID" />
+  <img src="https://img.shields.io/badge/TDD-222222?style=flat-square" alt="TDD" />
+  <img src="https://img.shields.io/badge/Dependency_Injection-222222?style=flat-square" alt="Dependency Injection" />
+  <img src="https://img.shields.io/badge/Repository_Pattern-222222?style=flat-square" alt="Repository Pattern" />
+  <img src="https://img.shields.io/badge/REST_APIs-222222?style=flat-square" alt="REST APIs" />
+</p>
+
+---
+
+<h2>📊 GitHub statistics</h2>
+
+<div align="center">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-    height="40"
-    alt="Flutter"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=urosvgd&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    alt="Uros GitHub statistics"
   />
-  <img width="12" />
 
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-    height="40"
-    alt="Dart"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-    height="40"
-    alt="Kotlin"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    height="40"
-    alt="Java"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-    height="40"
-    alt="Spring Boot"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-    height="40"
-    alt="PostgreSQL"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-    height="40"
-    alt="Firebase"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-    height="40"
-    alt="Docker"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    height="40"
-    alt="Git"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    height="40"
-    alt="GitHub"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-    height="40"
-    alt="Android Studio"
-  />
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    height="40"
-    alt="Visual Studio Code"
+    width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=urosvgd&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+    alt="Most used languages"
   />
 </div>
 
-<br>
+---
 
-<h3 align="left">📱 Flutter ecosystem</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
-  <img src="https://img.shields.io/badge/Freezed-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Freezed" />
-  <img src="https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="GoRouter" />
-  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dio" />
-  <img src="https://img.shields.io/badge/Injectable-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Injectable" />
-  <img src="https://img.shields.io/badge/get__it-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="get_it" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-<h3 align="left">🧪 Testing</h3>
+<h2>🔗 Connect with me</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Unit%20Testing-6C63FF?style=for-the-badge" alt="Unit testing" />
-  <img src="https://img.shields.io/badge/Widget%20Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Widget testing" />
-  <img src="https://img.shields.io/badge/BLoC%20Testing-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="BLoC testing" />
-  <img src="https://img.shields.io/badge/Mockito-45B8D8?style=for-the-badge" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Patrol-6C63FF?style=for-the-badge" alt="Patrol" />
-</p>
-
-<h3 align="left">🏗️ Architecture and practices</h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/SOLID-222222?style=for-the-badge" alt="SOLID" />
-  <img src="https://img.shields.io/badge/TDD-222222?style=for-the-badge" alt="TDD" />
-  <img src="https://img.shields.io/badge/Dependency%20Injection-222222?style=for-the-badge" alt="Dependency Injection" />
-  <img src="https://img.shields.io/badge/Repository%20Pattern-222222?style=for-the-badge" alt="Repository Pattern" />
-  <img src="https://img.shields.io/badge/REST%20APIs-222222?style=for-the-badge" alt="REST APIs" />
-</p>
-
-<h3 align="left">🔗 Connect with me</h3>
-
-<div align="left">
-  <a href="https://github.com/urosvgd" target="_blank">
+  <a href="YOUR_LINKEDIN_URL">
     <img
-      src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge"
-      height="35"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-      height="35"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
   <a href="mailto:YOUR_EMAIL">
     <img
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
-      height="35"
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
-</div>
 
-<br>
-
-<h3 align="center">🐍 My contributions</h3>
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/urosvgd/urosvgd/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-  />
-</div>
+  <a href="https://github.com/urosvgd">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
