@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uros Jovicic</h1>
+<h1 align="center">Hi 👋 I'm Uros</h1>
 
 <h3 align="center">Flutter Developer from Serbia 🇷🇸</h3>
 
