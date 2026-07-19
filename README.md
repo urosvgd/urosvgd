@@ -278,26 +278,6 @@
   </a>
 </p>
 
-<h2 id="-github-statistics">📊 GitHub statistics</h2>
-
-<p align="center">
-  <a href="#-github-statistics">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=urosvgd&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&cache_seconds=86400"
-      height="170"
-      alt="Uros GitHub statistics"
-    />
-  </a>
-
-  <a href="#-github-statistics">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=urosvgd&layout=compact&langs_count=6&theme=transparent&hide_border=true&cache_seconds=86400"
-      height="170"
-      alt="Most used languages"
-    />
-  </a>
-</p>
-
 <h2 id="-connect-with-me">🔗 Connect with me</h2>
 
 <p>
