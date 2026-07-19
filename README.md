@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -105,7 +104,7 @@
   <img src="https://img.shields.io/badge/SOLID-222222?style=flat-square" alt="SOLID" />
   <img src="https://img.shields.io/badge/TDD-222222?style=flat-square" alt="TDD" />
   <img src="https://img.shields.io/badge/Dependency_Injection-222222?style=flat-square" alt="Dependency Injection" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-222222?style=flat-square" alt="Repository Pattern" />
+  <img src="https://img.shields.io/badge/Design_Patterns-222222?style=flat-square" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/REST_APIs-222222?style=flat-square" alt="REST APIs" />
 </p>
 
@@ -132,17 +131,10 @@
 <h2>🔗 Connect with me</h2>
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/uros-jovicic-472272108/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
     />
   </a>
 
